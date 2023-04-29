@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning ML, AI, Product Development using various Technologies...
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT PROJECTS...
 ```
-Git@arun:-$ mail -aruntejamenda@gmail.com 
+Github@arun:-$ mail -aruntejamenda@gmail.com 
 ```
 ```
-Git@arun:-$ phone +919000599108
+Github@arun:-$ phone +919000599108
 ```
 <!---
 ARUNTEJAMENDA/ARUNTEJAMENDA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
